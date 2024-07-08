@@ -1,0 +1,20 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+input {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  border: 1px solid #333;
+}
+
+button {
+  background-color: #333;
+  color: #ffffff;
+  border: none;
+}
+
+h1 {
+  color: #bb86fc;
+}
