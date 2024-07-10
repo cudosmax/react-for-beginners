@@ -27,7 +27,7 @@ export default function Detail() {
           title={detail?.title}
           coverImg={detail?.medium_cover_image}
           id={detail?.id}
-          description={detail?.description_intro}
+          summary={detail?.summary}
         />
       )}
     </div>
